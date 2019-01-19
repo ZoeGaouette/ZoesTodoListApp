@@ -1,0 +1,3 @@
+Regular,Buy eggs,Oct 5 2018,false,false
+Academic,Do Homework 1,MATH217,Oct 10 2018,false,false
+Event,Swimming Lesson,UBC Aquatic Centre,Oct 14 2018,02:00,false,false

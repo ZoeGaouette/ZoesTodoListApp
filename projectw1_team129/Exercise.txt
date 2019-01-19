@@ -1,0 +1,4 @@
+Event,spinning class,AMS Nest,Nov 18 2018,14:00,false,true
+Event,testing,AMS Nest,Nov 29 2018,09:00,false,false
+Regular,go running,Dec 3 2018,true,true
+Regular,get deliverable graded,Nov 28 2018,false,false

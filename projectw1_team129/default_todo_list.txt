@@ -1,0 +1,4 @@
+Academic,Final project,PHYS219,Dec 19 2018,false,false
+Academic,nap,CPSC121,Dec 18 2018,true,false
+Academic,Study for final,MATH217,Dec 3 2018,false,false
+Event,Swimming lesson,UBC Pool,Nov 26 2018,14:00,false,true

@@ -1,0 +1,1 @@
+Regular,Go to save on foods,Jan 5 2019,true,false

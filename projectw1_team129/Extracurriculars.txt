@@ -1,0 +1,2 @@
+Regular,go biking,Jan 5 2019,false,false
+Event,Chess club meeting,AMS Nest,Nov 30 2018,16:00,false,false
